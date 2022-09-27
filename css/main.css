@@ -493,7 +493,7 @@
     justify-content: center;
     font-size: 24px;
 }
-.contact-icon  + .contact-icon {
+.contact-icon + .contact-icon {
     margin-top: 20px;
 }
 .contact-head{
@@ -538,4 +538,5 @@
 }
 .p-foot{
     text-align: right!important;
+    color: #fff;
 }

@@ -1,0 +1,62 @@
+ @media(min-width:576px) and (max-width:768px){
+    #home{
+        width: 100%;
+        height: 40vh;
+        background-image: url(../images/1.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    .home-banner .top-style {
+        position: absolute;
+        width: 300px;
+        top: -90px;
+        left: -50px;
+        color: #ed9b18;
+    }
+    .home-banner .bottom-style {
+        position: absolute;
+        width: 300px;
+        bottom: -90px;
+        right: -50px;
+        color: #ed9b18;
+    }
+    .ban-head h6{
+        font-size: 20px;
+        margin-bottom: 15px;
+        color: #fff;
+    }
+    .ban-head h1{
+        font-size: 40px;
+        color: #fff;
+        font-weight: 700;
+        margin-bottom: 15px;
+    }
+    .ban-head h2{
+        font-size: 19px;
+        color: #fff;
+        font-weight: 500;
+        margin: 0;
+    }
+    .ban-head{
+        text-align: center;
+    }
+    .main-header{
+        position: fixed;
+        left: 0;
+        z-index: 111;
+        top: 0;
+        border-bottom: 1px solid rgba(240, 234, 234);
+    }
+    .tesimonal-box{
+        width: 333px;
+    }
+
+   
+ }
+ @media(min-width:768px){
+   
+}
+@media(min-width:992px){
+   
+}
+ 
